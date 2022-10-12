@@ -2,7 +2,7 @@
 Praktikum Probabilitas dan Statistik 1
 
 ### Notes
-Jika screenshot kurang jelas, klik image agar terlihat lebih jelas
+Jika screenshot kurang jelas, klik image screenshot agar terlihat lebih jelas
 
 ## Identitas
 | Name           | NRP        | Kelas     |
