@@ -344,7 +344,7 @@ sd = 8
 Untuk mencari data yang  akan dicari gunakan fungsi `rnorm()`. Kemudian hitung rataan dengan fungsi `mean()` dengan parameter data.
  `x1` digunakan untuk menghitung `dibawah rata-rata` dan `x2` untuk `diatas rata-rata`. `Z-score` dihitung dengan `nilai data dikurang rataan, kemudian dibagi dengan standar deviasi data`. Untuk menggambar plot gunakan fungsi `plot()` dengan parameter `z`.
 
-```
+```ruby
 set.seed(1)
 data <- rnorm(n, mean, sd)
 rataan <- mean(data)
@@ -372,7 +372,7 @@ Diperoleh gambar plot sebagai berikut,
 
 Untuk membuat histogram, gunakan fungsi `hist()` dengan parameter variable `z`, `breaks = 50`, dan `nama main` sesuai dengan perintah soal.
 
-```
+```ruby
 breaks = 50
 hist(z, breaks, main = "5025211219_Rayssa Ravelia_Probstat_A_DNHistogram", col = "#1b98e0")
 ```
@@ -385,7 +385,7 @@ Diperoleh histogram dari code tersebut sebagai berikut,
 
 Untuk menghitung nilai varian dari nilai random distribusi normal, gunakan fungsi `sd()` dengan parameter `data` sebagai distribusi normalnya.
 
-```
+```ruby
 varian = sd(data)^2
 ```
 
