@@ -1,6 +1,9 @@
 # Modul1_Probstat_5025211219
 Praktikum Probabilitas dan Statistik 1
 
+## Notes
+Jika screenshot kurang jelas, klik image agar terlihat lebih jelas
+
 ## Identitas
 | Name           | NRP        | Kelas     |
 | ---            | ---        | ----------|
