@@ -19,7 +19,7 @@ Pada poin a, kita harus mencari peluang `x = 3` yang `tidak menghadiri` acara de
 Oleh karena itu, kita harus menghitung peluang tidak menghadiri acara dengan `1-p`.
 
 Untuk menghitung peluang tersebut digunakan fungsi `dgeom(x,prob)` dengan x sebagai jumlah gagal sebelum sukses pertama, dan prob adalah probabilitas sukses pada percobaan yang diberikan.
-```ruby
+```Ruby
 x <- 3
 p <- 0.2
 peluang <- dgeom(x,1-p)
