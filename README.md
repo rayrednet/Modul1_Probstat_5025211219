@@ -23,7 +23,6 @@ peluang <- dgeom(x,1-p)
 ```
 Sehingga diperoleh hasil sebagai berikut
 
-<img width="227" alt="image" src="https://user-images.githubusercontent.com/89933907/195249105-f0c4101b-8e2d-4013-b827-8f41dde05851.png">
 
 
 
