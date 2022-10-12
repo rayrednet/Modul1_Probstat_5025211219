@@ -391,6 +391,6 @@ varian = sd(data)^2
 
 Sehingga diperoleh data sebagai berikut,
   
- <img width="484" alt="image" src="https://user-images.githubusercontent.com/89933907/195313707-ca27a61e-e4dd-4280-93a8-8145e8f9db7a.png">
+<img width="484" alt="image" src="https://user-images.githubusercontent.com/89933907/195313707-ca27a61e-e4dd-4280-93a8-8145e8f9db7a.png">
 
 Maka, varian dari hasil generate random nilai distribusi normal adalah `51.6327737`
